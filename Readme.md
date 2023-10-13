@@ -22,25 +22,27 @@ To get started with any of these projects, follow these steps:
 git clone https://github.com/yourusername/vite-react-projects.git
 
 ```
-Navigate to a specific project folder:
+2. Navigate to a specific project folder:
 
-bash
-Copy code
+```javascript
+
 cd project-x
-Install project dependencies:
 
-bash
-Copy code
+```
+3. Install project dependencies:
+
+```javascript
+
 npm install
-Start the development server:
 
-bash
-Copy code
+```
+4. Start the development server:
+
+```javascript
 npm run dev
-Open your browser and access the application at http://localhost:3000.
 
-Contribution
+```
+5. Open your browser and access the application at http://localhost:3000.
+
+### Contribution
 If you'd like to contribute or have any improvements to suggest, feel free to fork this repository and create a pull request.
-
-License
-This project is open-source and available under the MIT License.
