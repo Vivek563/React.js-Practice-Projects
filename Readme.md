@@ -1,5 +1,5 @@
 # Vite-React Projects
-### This repository contains a collection of 10 React applications created while learning from the YouTube channel "Chai and Code" by Hitesh Choudary. Each application is built using Vite as the bundler and React as the JavaScript library.
+ This repository contains a collection of 10 React applications created while learning from the YouTube channel "Chai and Code" by Hitesh Choudary. Each application is built using Vite as the bundler and React as the JavaScript library.
 
 ## Project List
 * Project 1 - Counter Update
